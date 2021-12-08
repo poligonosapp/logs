@@ -1,0 +1,27 @@
+{
+  "name": "logs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "start",
+    "test": "jest",
+    "build": "build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poligonosapp/logs.git"
+  },
+  "keywords": [
+    "fluentd",
+    "logger",
+    "nodejs",
+    "12factorapp"
+  ],
+  "author": "Fabio Rodrigues https://www.facebook.com/kefaro, Luis Mendes machadoluismendes@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/poligonosapp/logs/issues"
+  },
+  "homepage": "https://github.com/poligonosapp/logs#readme"
+}
