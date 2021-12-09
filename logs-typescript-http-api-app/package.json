@@ -1,0 +1,16 @@
+{
+  "name": "serverless-http-api-typescript",
+  "description": "",
+  "version": "0.1.0",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.61",
+    "serverless": "^2.68.0",
+    "serverless-offline": "^8.3.1",
+    "serverless-plugin-typescript": "^2.1.0",
+    "snyk": "^1.787.0",
+    "typescript": "^3.9.7"
+  },
+  "scripts": {
+    "test": "snyk test"
+  }
+}

@@ -5,7 +5,7 @@
   "main": "./src/index.js",
   "scripts": {
     "start": "start",
-    "test": "jest",
+    "test": "snyk test",
     "build": "build"
   },
   "repository": {
